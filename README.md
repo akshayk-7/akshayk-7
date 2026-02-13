@@ -1,4 +1,4 @@
-# 💫 Hi 👋 I'm Akshay Kokitkar:
+# 💫 Hi 👋 I'm Akshay Kokitkar
 🌱 I’m currently learning Python FullSTACK Development<br> <br>
 
 
