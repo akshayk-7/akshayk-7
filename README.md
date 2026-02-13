@@ -1,5 +1,7 @@
 # 💫 Hi 👋 I'm Akshay Kokitkar
-🌱 I’m currently learning Python FullSTACK Development<br> <br>
+🌱 I’m currently learning Python FullSTACK Development
+<br> How to reach me ✉️<br>
+<a href="akshaykokitkar803@gmail.com">akshaykokitkar803@gmail.com</a>
 
 
 # 💻 Tech Stack:
