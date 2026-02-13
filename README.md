@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning Python FullSTACK Development<br>💬 Ask me about<br>
+# 💫 Hi 👋 I'm Akshay Kokitkar:
+🌱 I’m currently learning Python FullSTACK Development<br> <br>
 
 
 # 💻 Tech Stack:
@@ -9,8 +9,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=akshayk-7&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayk-7&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 
+//![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akshayk-7&limit=5&theme=react&combine_all_yearly_contributions=true)
